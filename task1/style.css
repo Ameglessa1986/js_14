@@ -1,0 +1,15 @@
+body {
+     font-size: 35px;
+     }
+
+
+p {
+      text-align: center;
+    text-decoration: dashed;
+    color: blue;
+}
+h2 {
+     text-align:center;
+     color: red;
+     font-size: 25px;
+}
